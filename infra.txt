@@ -1,0 +1,4 @@
+public-1a-ip = "3.91.198.117"
+puclic-1b-ip = "44.201.122.69"
+puclic_1a_subnet_id = "subnet-0cb33c376c9042d0b"
+vpc_id = "vpc-03908ae8e7faa7193"
